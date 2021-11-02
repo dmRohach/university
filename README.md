@@ -6,7 +6,7 @@ Execute the following commands from the project directory for the first startup.
 for building service and executing migrations
 
 - `make run`
-fro starting project
+for starting project
 
 After all services started open URL: http://0.0.0.0:8000/docs
 
